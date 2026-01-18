@@ -1,5 +1,6 @@
 // Variable existente con algunos enlaces
 var redirects = {
+  "quieromichoxyluche": "https://www.roblox.com/es/catalog/138730439145028/Choxy-de-Peluche",
   "fb": "https://www.facebook.com/choxypop.oficial",
   "instagram": "https://instagram.com/choxypop",
   "wa": "https://whatsapp.com/channel/0029VaFZXi4FHWq38h6MIO0H",
