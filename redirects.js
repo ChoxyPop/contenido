@@ -15,8 +15,9 @@ var redirects = {
   "wagroup": "https://chat.whatsapp.com/J4gHptKxOZaGD81IcGzxDW", 
   "stickers": "https://sticker.ly/s/Z61AWD", 
   "roblox": "https://www.roblox.com/es/users/432698417/profile",
-  "minicomics": "https://pinterest.com/choxypop/minicomics",
-  "memes": "https://pinterest.com/choxypop/memes",
-  "fanarts": "https://pinterest.com/choxypop/fanarts",
-  "dibujos": "https://pinterest.com/choxypop/dibujos"
+  "minicomics": "https://ko-fi.com/album/MiniComics-T6T31UXQ71",
+  "memes": "https://ko-fi.com/album/Memes-Q5Q81UXT38",
+  "fanarts": "https://ko-fi.com/album/FanArts-O4O51UXRUN",
+  "renders": "https://ko-fi.com/album/Renders-M4M31UXT8F",
+  "dibujos": "https://ko-fi.com/album/Dibujos-T6T41UXT6D"
 };
