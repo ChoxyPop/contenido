@@ -1,5 +1,10 @@
 // Variable existente con algunos enlaces
 var redirects = {
+  "invite/facebook": "https://www.facebook.com/groups/comunidad.de.choxy",
+  "invite/fb": "https://www.facebook.com/groups/comunidad.de.choxy",
+  "invite/wa": "https://chat.whatsapp.com/J4gHptKxOZaGD81IcGzxDW",
+  "invite/whatsapp": "https://chat.whatsapp.com/J4gHptKxOZaGD81IcGzxDW",
+  "invite/discord": "https://discord.com/invite/9H8DZzvk8S",
   "quieromichoxyluche": "https://www.roblox.com/es/catalog/138730439145028/Choxy-de-Peluche",
   "wallpaper": "https://drive.google.com/drive/folders/1wgV6JUtpBvqiQ-5nHB2q4Uegk0GaNFKd",
   "wallpapers": "https://drive.google.com/drive/folders/1wgV6JUtpBvqiQ-5nHB2q4Uegk0GaNFKd",
