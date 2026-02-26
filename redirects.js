@@ -19,5 +19,6 @@ var redirects = {
   "memes": "https://ko-fi.com/album/Memes-Q5Q81UXT38",
   "fanarts": "https://ko-fi.com/album/FanArts-O4O51UXRUN",
   "renders": "https://ko-fi.com/album/Renders-M4M31UXT8F",
+  "animaciones": "https://ko-fi.com/album/Animaciones-S6S11UXYO3",
   "dibujos": "https://ko-fi.com/album/Dibujos-T6T41UXT6D"
 };
